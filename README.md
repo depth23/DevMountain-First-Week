@@ -1,2 +1,2 @@
 # DevMountain-First-Week
-DevMountain first week one projects
+DevMountain first week projects
